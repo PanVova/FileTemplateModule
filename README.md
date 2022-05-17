@@ -6,6 +6,9 @@ First of all you need to install plugin called ```Generate Module from Template`
 
 Download this files 
 * https://github.com/PanVova/FileTemplateModule/blob/main/fileTemplateModule.zip
+* https://github.com/PanVova/FileTemplateModule/blob/main/Domain%20module.json
+
+Next, Installation:
 
 
 Then you can add my existing template to create domain modules like ```impl, impl-rest, public```
