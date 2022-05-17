@@ -9,6 +9,10 @@ Download this files
 * https://github.com/PanVova/FileTemplateModule/blob/main/Domain%20module.json
 
 Next, Installation:
+* File with name fileTemplateModule need to be import 
+> How to import settings: File -> Manage IDE Settings -> Import Settings -> Find file on PC
+* File with name DomainModule.json 
+> Tools -> Module Template Settings -> Tap "+" symbol -> Import from file -> Find file on PC
 
 
 Then you can add my existing template to create domain modules like ```impl, impl-rest, public```
