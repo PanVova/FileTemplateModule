@@ -4,7 +4,8 @@ Instruction how to create new module using this repository
 First of all you need to install plugin called ```Generate Module from Template```
 > Android Studio -> Preferences -> Plugins -> Type Name ```Generate Module from Template```
 
-Download this files from repository ```TODO```
+Download this files from repository 
+* https://github.com/PanVova/FileTemplateModule/blob/main/fileTemplateModule.zip
 
 
 Then you can add my existing module to create domain modules like ```impl, impl-rest, public```
