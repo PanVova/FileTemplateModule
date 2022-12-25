@@ -5,7 +5,7 @@
 > Android Studio -> Preferences -> Plugins -> Type Name ```Generate Module from Template```
 
 ### Download this files 
-* [File Templates](https://github.com/PanVova/FileTemplateModule/files/10300577/fileTemplateModule.zip)
+* [File Templates](https://github.com/PanVova/FileTemplateModule/files/10300684/fileTemplateModule.zip)
 * [Module templates](https://github.com/PanVova/FileTemplateModule/files/10300575/Module.templates.zip)
 
 ### Installation:
