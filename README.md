@@ -9,9 +9,9 @@
 * [Module templates](https://github.com/PanVova/FileTemplateModule/files/10300575/Module.templates.zip)
 
 ### Installation:
- #### File with name fileTemplateModule need to be imported
+ #### File with name `fileTemplateModule` need to be imported
 > How to import settings: File -> Manage IDE Settings -> Import Settings -> Find file on PC
- #### Files inside Module.templates need to be imported
+ #### Files inside `Module.templates` need to be imported
 > Tools -> Module Template Settings -> Tap "+" symbol -> Import from file -> Find file on PC
 
 
